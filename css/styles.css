@@ -1,0 +1,22 @@
+body {
+  background-color: whitesmoke;
+}
+hr {
+  border-style: dotted none none none;
+  border-width: 10px;
+  width: 10%;
+  border-color: grey;
+}
+h1 {
+  color: #800000;
+}
+h3 {
+  color: #800000;
+}
+h2 {
+  color: steelblue;
+}
+img {
+  height: 180px;
+  width: 200px;
+}
